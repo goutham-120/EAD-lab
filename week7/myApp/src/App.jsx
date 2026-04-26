@@ -5,10 +5,10 @@ import Greet from './components/greetings.jsx';
 function app(){
   return(
     <div>
-      <h1>hii from app!</h1>
+      {/* <h1>hii from app!</h1>
        <Hello />
        <Count />
-      <Timer />
+      <Timer /> */}
       <Greet />
     </div>
   );
